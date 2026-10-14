@@ -1,7 +1,13 @@
 # Stratarix website
 
-A static responsive website for Stratarix: business websites, AI automation, and monthly maintenance.
+Responsive public-facing Stratarix website with premium gold styling, three illustrative portfolio mockups (HTML/CSS), websites, automation, and monthly maintenance offerings.
 
-Open index.html to preview. No build required.
+**Contact:** p.sathi9988@gmail.com
 
-Before public launch: replace the **placeholder** hello@stratarix.com email in index.html with a verified email; confirm the stated project counts; add genuine portfolio examples and a privacy notice if you collect personal data. This repository is private and pushing website files is not the same as deploying a public site.
+**Founder:** Sathish P
+
+## Deployment
+Connect this repository to Vercel or Netlify as a static website (root directory `./`, no build command). If connected to the main branch with automatic deployments enabled, pushes may trigger a new deployment.
+
+## Important
+The concept portfolio mockups are illustrations, not client case studies or verified performance results. Project counts are company-reported. The uploaded Stratarix gold horse logo and generated PNG image files are not yet in this GitHub repository; adding binary assets requires a separate upload. No functioning backend contact form is included: contact uses `mailto:`.
